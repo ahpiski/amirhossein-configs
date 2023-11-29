@@ -45,7 +45,6 @@ set noshowmode
 
 call plug#begin()
 
-Plug 'morhetz/gruvbox.git'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/vim-easy-align'
 Plug 'ctrlpvim/ctrlp.vim'
