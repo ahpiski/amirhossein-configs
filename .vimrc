@@ -1,5 +1,4 @@
-colorscheme gruvbox
-set background=dark
+
 
 set emoji
 set autochdir
@@ -49,11 +48,14 @@ Plug 'vim-airline/vim-airline'
 Plug 'junegunn/vim-easy-align'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'airblade/vim-gitgutter'
-Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'jiangmiao/auto-pairs'
 Plug 'valloric/youcompleteme'
+Plug 'morhetz/gruvbox'
 
 call plug#end()
+
+colorscheme gruvbox
+set background=dark
 
