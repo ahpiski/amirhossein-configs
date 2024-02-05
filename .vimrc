@@ -51,7 +51,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'jiangmiao/auto-pairs'
-Plug 'valloric/youcompleteme'
 Plug 'morhetz/gruvbox'
 
 call plug#end()
